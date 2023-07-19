@@ -1,3 +1,6 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "ec2InstanceNameKEY": "instance name",
+  "ec2InstanceIDKEY": "instance ID",
+  "privateIPAddressKEY": "private ip address"
 }

@@ -1,3 +1,5 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "secretNameKEY": "jump-block-one-crypto-bing-authorized-ssh-key-1280-60-sec-sd",
+  "userNameKEY": "ubuntu"
 }
