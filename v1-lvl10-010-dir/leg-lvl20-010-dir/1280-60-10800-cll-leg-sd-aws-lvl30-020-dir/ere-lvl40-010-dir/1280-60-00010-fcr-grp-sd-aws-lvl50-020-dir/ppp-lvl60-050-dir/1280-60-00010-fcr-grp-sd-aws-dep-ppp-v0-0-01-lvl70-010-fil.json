@@ -1,3 +1,6 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "program1NameKEY": "Putty",
+  "protocol1TypeKEY": "TCP",
+  "port1RangeKEY": "22"
 }
